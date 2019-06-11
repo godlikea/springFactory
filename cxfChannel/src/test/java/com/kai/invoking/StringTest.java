@@ -20,4 +20,11 @@ public class StringTest {
                 maxAutoCode.length());
         System.out.println(numberStr);
     }
+
+    @Test
+    public void streamTest(){
+        List<Integer> list=new ArrayList<Integer>();
+        list.add(1);
+        System.out.println(list);
+    }
 }
