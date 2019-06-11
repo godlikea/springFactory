@@ -10,6 +10,6 @@ public class StreamTest {
 
     @Test
     public void streamTest(){
-
+        System.out.println("woyishiwu");
     }
 }
